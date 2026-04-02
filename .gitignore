@@ -1,0 +1,6 @@
+*.exe
+*.o
+arreglos.c
+helloworld.c
+paralelo.exe
+puntero.c
