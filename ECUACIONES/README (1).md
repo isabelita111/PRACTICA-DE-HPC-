@@ -1,5 +1,3 @@
-# Computación de Alto Desempeño — Taller OpenMP
-**Universidad de Medellín — 2024**
 
 ---
 
@@ -136,6 +134,4 @@ for (int i = 1; i < NX - 1; i++) {
 
 5. **Los resultados numéricos fueron los mismos en serial y paralelo.** Dividir el trabajo entre procesadores no afectó la precisión de los cálculos en ningún caso.
 
----
 
-*Implementación realizada en C con OpenMP — Computación de Alto Desempeño 2024*
